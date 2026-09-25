@@ -33,7 +33,7 @@ El sitio se publica automáticamente en GitHub Pages:
 |---|---|
 | `docs/` | Sitio web estático generado por EPF Composer (index.html + recursos) |
 | `BibliotecaUP/` | Biblioteca de método EPF Composer (archivos .xmi), abrir con EPF Composer 1.5.2 |
-| `Informe_Laboratorio1.pdf` | Informe narrativo, modelo SPEM y reflexión crítica |
+| `Informe_Lab_1.pdf` | Informe narrativo, modelo SPEM y reflexión crítica |
 | `README.md` | Este archivo |
 
 ## Cómo abrir el modelo en EPF Composer
