@@ -1,0 +1,114 @@
+Info: CapabilityPattern:patron_identificar_requisitos: 83 mini seconds publishing element
+Info: CapabilityPattern:patron_identificar_requisitos: 155 mini seconds publishing process specific layout data
+Info: Activity:Definir el alcance: 76 mini seconds publishing element
+Info: Task:desarrollar_vision: 19 mini seconds publishing element
+Info: TaskDescriptor:desarrollar_vision: 0 mini seconds publishing element
+Info: Role:analista_de_sistemas: 59 mini seconds publishing element
+Info: RoleDescriptor:analista_de_sistemas: 1 mini seconds publishing element
+Info: Role:stakeholder: 15 mini seconds publishing element
+Info: RoleDescriptor:stakeholder: 6 mini seconds publishing element
+Info: Artifact:solicitudes_stakeholders: 18 mini seconds publishing element
+Info: WorkProductDescriptor:solicitudes_stakeholders: 2 mini seconds publishing element
+Info: Artifact:glosario: 14 mini seconds publishing element
+Info: WorkProductDescriptor:glosario: 2 mini seconds publishing element
+Info: Artifact:vision: 8 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 0 mini seconds publishing element
+Info: Activity:Modelar Dominio y vocabulario: 100 mini seconds publishing element
+Info: Task:identificar_actores_casos_de_uso: 18 mini seconds publishing element
+Info: TaskDescriptor:identificar_actores_casos_de_uso: 6 mini seconds publishing element
+Info: RoleDescriptor:analista_de_sistemas: 4 mini seconds publishing element
+Info: RoleDescriptor:stakeholder: 5 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 2 mini seconds publishing element
+Info: WorkProductDescriptor:glosario: 2 mini seconds publishing element
+Info: Artifact:actor: 10 mini seconds publishing element
+Info: WorkProductDescriptor:actor: 1 mini seconds publishing element
+Info: Artifact:modelo_de_casos_de_uso: 21 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_casos_de_uso: 4 mini seconds publishing element
+Info: Task:capturar_vocabulario: 8 mini seconds publishing element
+Info: TaskDescriptor:capturar_vocabulario: 9 mini seconds publishing element
+Info: WorkProductDescriptor:solicitudes_stakeholders: 0 mini seconds publishing element
+Info: CapabilityPattern:patron_detallar_requisitos: 42 mini seconds publishing element
+Info: CapabilityPattern:patron_detallar_requisitos: 49 mini seconds publishing process specific layout data
+Info: Activity:Detallar Requisitos: 81 mini seconds publishing element
+Info: Task:detallar_caso_de_uso: 23 mini seconds publishing element
+Info: TaskDescriptor:detallar_caso_de_uso: 13 mini seconds publishing element
+Info: Role:especificador_de_requisitos: 17 mini seconds publishing element
+Info: RoleDescriptor:especificador_de_requisitos: 15 mini seconds publishing element
+Info: RoleDescriptor:stakeholder: 3 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_casos_de_uso: 2 mini seconds publishing element
+Info: WorkProductDescriptor:glosario: 2 mini seconds publishing element
+Info: Artifact:requisitos_complementarios: 10 mini seconds publishing element
+Info: WorkProductDescriptor:requisitos_complementarios: 0 mini seconds publishing element
+Info: Artifact:especificacion_de_caso_de_uso: 18 mini seconds publishing element
+Info: WorkProductDescriptor:especificacion_de_caso_de_uso: 5 mini seconds publishing element
+Info: Task:especificar_requisitos_complementarios: 14 mini seconds publishing element
+Info: TaskDescriptor:especificar_requisitos_complementarios: 2 mini seconds publishing element
+Info: RoleDescriptor:analista_de_sistemas: 0 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 8 mini seconds publishing element
+Info: WorkProductDescriptor:solicitudes_stakeholders: 1 mini seconds publishing element
+Info: CapabilityPattern:patron_validar_requisitos: 67 mini seconds publishing element
+Info: CapabilityPattern:patron_validar_requisitos: 120 mini seconds publishing process specific layout data
+Info: Activity:Validar y Acordar: 117 mini seconds publishing element
+Info: Task:revisar_requisitos: 14 mini seconds publishing element
+Info: TaskDescriptor:revisar_requisitos: 14 mini seconds publishing element
+Info: Role:revisor_de_requisitos: 17 mini seconds publishing element
+Info: RoleDescriptor:revisor_de_requisitos: 0 mini seconds publishing element
+Info: RoleDescriptor:stakeholder: 0 mini seconds publishing element
+Info: RoleDescriptor:analista_de_sistemas: 16 mini seconds publishing element
+Info: WorkProductDescriptor:especificacion_de_caso_de_uso: 0 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_casos_de_uso: 0 mini seconds publishing element
+Info: WorkProductDescriptor:requisitos_complementarios: 9 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 3 mini seconds publishing element
+Info: WorkProductDescriptor:glosario: 3 mini seconds publishing element
+Info: Artifact:informe_de_revisin_de_requisitos: 10 mini seconds publishing element
+Info: WorkProductDescriptor:informe_de_revisin_de_requisitos: 3 mini seconds publishing element
+Info: Task:acordar_empaquetar_requisitos: 10 mini seconds publishing element
+Info: TaskDescriptor:acordar_empaquetar_requisitos: 7 mini seconds publishing element
+Info: Deliverable:paquete_de_requisitos: 9 mini seconds publishing element
+Info: WorkProductDescriptor:paquete_de_requisitos: 7 mini seconds publishing element
+Info: Outcome:requisitos_acordados: 0 mini seconds publishing element
+Info: WorkProductDescriptor:requisitos_acordados: 2 mini seconds publishing element
+Info: DeliveryProcess:disciplina_requisitos_up: 140 mini seconds publishing element
+Info: DeliveryProcess:disciplina_requisitos_up: 711 mini seconds publishing process specific layout data
+Info: Phase:Inicio: 68 mini seconds publishing element
+Info: CapabilityPattern:patron_identificar_requisitos: 53 mini seconds publishing element
+Info: Milestone:Vision y alcance aprobados: 18 mini seconds publishing element
+Info: Phase:Elaboracion: 65 mini seconds publishing element
+Info: Iteration:Iteracion de Elaboracion: 54 mini seconds publishing element
+Info: CapabilityPattern:patron_detallar_requisitos: 50 mini seconds publishing element
+Info: CapabilityPattern:patron_validar_requisitos: 43 mini seconds publishing element
+Info: Milestone:Linea base de requisitos: 15 mini seconds publishing element
+Info: Phase:Construccion: 53 mini seconds publishing element
+Info: Iteration:Iteracion de construccion: 175 mini seconds publishing element
+Info: TaskDescriptor:detallar_caso_de_uso: 7 mini seconds publishing element
+Info: RoleDescriptor:especificador_de_requisitos: 2 mini seconds publishing element
+Info: RoleDescriptor:stakeholder: 0 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_casos_de_uso: 0 mini seconds publishing element
+Info: WorkProductDescriptor:glosario: 0 mini seconds publishing element
+Info: WorkProductDescriptor:requisitos_complementarios: 8 mini seconds publishing element
+Info: WorkProductDescriptor:especificacion_de_caso_de_uso: 5 mini seconds publishing element
+Info: TaskDescriptor:revisar_requisitos: 0 mini seconds publishing element
+Info: RoleDescriptor:revisor_de_requisitos: 8 mini seconds publishing element
+Info: RoleDescriptor:analista_de_sistemas: 2 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 5 mini seconds publishing element
+Info: WorkProductDescriptor:informe_de_revisin_de_requisitos: 2 mini seconds publishing element
+Info: Phase:Transicion: 65 mini seconds publishing element
+Info: CapabilityPattern:patron_validar_requisitos: 63 mini seconds publishing element
+Info: Milestone:Requisitos entregados y aceptados: 3 mini seconds publishing element
+Info: CustomCategory:vista_proceso: 116 mini seconds publishing element
+Info: Discipline:requisitos: 0 mini seconds publishing element
+Info: Guideline:directrices_para_elicitar_requisitos: 100 mini seconds publishing element
+Info: RoleSet:equipo_de_requisitos: 4 mini seconds publishing element
+Info: CustomCategory:vista_roles: 0 mini seconds publishing element
+Info: RoleSet:cliente: 13 mini seconds publishing element
+Info: Domain:documentos: 0 mini seconds publishing element
+Info: CustomCategory:vista_productos: 11 mini seconds publishing element
+Info: ToolMentor:tool_mentor_diagramar_casos_de_uso_con_draw.io: 6 mini seconds publishing element
+Info: Domain:modelos: 0 mini seconds publishing element
+Info: Example:ejemplo_caso_de_uso_registrar_prstamo: 99 mini seconds publishing element
+Info: Concept:concepto_tipos_de_requisitos_furps: 0 mini seconds publishing element
+Info: Template:plantilla_espesificacion_caso_de_uso: 16 mini seconds publishing element
+Info: Checklist:lista_de_comprobacin_de_requisitos: 113 mini seconds publishing element
+Info: CustomCategory:vista_guias: 6 mini seconds publishing element
+Info: Tool:herramientas_de_modelado: 0 mini seconds publishing element
+Info: : Publishing time: 0 minutes 4 seconds
